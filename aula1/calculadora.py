@@ -1,4 +1,4 @@
-#
+# Execução final (entregue)
 def adicao(val1, val2):
     return val1 + val2
 
@@ -12,7 +12,6 @@ def divisao(val1, val2):
     return val1 // val2
 
 print("Selecione o número da operação desejada: \n ")
-
 print("1 - Soma")
 print("2 - Subtração")
 print("3 - Multiplicação")
